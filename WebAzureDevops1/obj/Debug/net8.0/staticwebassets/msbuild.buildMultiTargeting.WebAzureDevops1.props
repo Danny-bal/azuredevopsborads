@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAzureDevops1.props" />
+</Project>
